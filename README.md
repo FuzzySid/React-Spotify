@@ -1,6 +1,6 @@
 # Fuzzy React Spotify
 
-[Fuzzy React Spotify](https://fuzzy-netflix-clone.web.app/) is a simple clone of [Spotify Web Clone](http://netflix.com/) built using ReactJS and [Spotify API](https://developer.spotify.com/documentation/web-api/). 🎶
+[Fuzzy React Spotify](react-spotify-webapp.web.app/) is a simple clone of [Spotify Web Clone](http://netflix.com/) built using ReactJS and [Spotify API](https://developer.spotify.com/documentation/web-api/). 🎶
 
 Users can log in to their Spotify Accounts. ![Landing Page](https://ik.imagekit.io/pibjyepn7p9/spotify-login_KYf1NPf_D.PNG)
 
