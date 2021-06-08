@@ -33,7 +33,7 @@ If you wish to run the project locally, follow the steps below:
 Run the following command to clone the repository locally
 
 ```shell
-git clone https://github.com/FuzzySid/netflix-clone.git
+git clone https://github.com/FuzzySid/React-Spotify.git
 ```
 
 Inside the directory, run
